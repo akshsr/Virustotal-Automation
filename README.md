@@ -2,7 +2,7 @@
 This Python script automates the process of checking file hashes against the [VirusTotal API](https://www.virustotal.com/) and logs the results for security analysis.
 
 ## Features
-- Queries VirusTotal using file hashes (SHA256/SHA1/MD5) And IPs (IPv4/IPv6).
+- Queries VirusTotal using file hashes (SHA256/SHA1/MD5).
 - Extracts detection statistics:
   - Malicious, Suspicious, Undetected, Harmless
 - Calculates a detection **score** (`positives/total engines`).
