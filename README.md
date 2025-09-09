@@ -1,4 +1,4 @@
-# Virustotal-Automation
+# Virustotal-Hash-Automation
 This Python script automates the process of checking file hashes against the [VirusTotal API](https://www.virustotal.com/) and logs the results for security analysis.
 
 ## Features
